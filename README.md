@@ -1,4 +1,4 @@
-# 📝 App tareas
+# 📝 App tareas intermedio
 
 Una aplicación web sencilla e intuitiva para gestionar tus tareas diarias.
 Permite añadir, marcar como completadas y eliminar tareas mediante una interfaz minimalista basada en tarjetas.
@@ -9,7 +9,6 @@ Permite añadir, marcar como completadas y eliminar tareas mediante una interfaz
 - ✅ Marcar como completada: Cada tarjeta incluye un checkbox para indicar que la tarea fue realizada.
 - ❌ Eliminar tareas: Botón individual para eliminar cualquier tarea de la lista
 - 💾 (Opcional) Persistencia local: Guarda tus tareas en el localStorage para no perderlas al recargar la página.
-- 🎨 Diseño responsivo: Compatible con dispositivos móviles y pantallas de escritorio.
 
 ## 🧱 Estructura del proyecto
 ```
@@ -60,3 +59,4 @@ cd to-do-list-app
 - Integrar base de datos (Firebase, Supabase, etc.)
 - Autenticación de usuario
 - Animaciones y modo oscuro 🌙
+- Diseño responsivo: Compatible con dispositivos móviles y pantallas de escritorio.
