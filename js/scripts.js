@@ -1,5 +1,5 @@
 const input=document.querySelector('input[type="text"]')//1. capturare todos mis elementos
-const userInput=document.querySelector('#inputUsuario') //relaciona con los eventos submit, captura los input
+const userInput=document.querySelector('#inputUsuario') //1.5. relaciona con los eventos submit, captura los input
 const lista=document.querySelector('#lista')
 //5.
 let idCounter=0
